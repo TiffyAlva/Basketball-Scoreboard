@@ -1,4 +1,4 @@
-/* create Reset button & Mobile responsive*/
+
 body {
     margin: 0;
     text-align: center;
@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-around;
     max-width: 500px;
-    background-color: #1B244A;
+    background-color: darkred;
     justify-content: space-around;
     padding: 2em 0;
     margin: 20% auto;
@@ -21,7 +21,6 @@ body {
   font-size: 40px;
   font-weight: 700;
   line-height: 5px;
-  /* line-height: 35.89px; */
   letter-spacing: 0em;
   text-align: center;
   margin-bottom: 10px; 
@@ -34,7 +33,6 @@ body {
   font-size: 40px;
   font-weight: 700;
   line-height: 5px;
-  /* line-height: 35.89px; */
   letter-spacing: 0em;
   text-align: center;
   margin-bottom: 10px
