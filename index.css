@@ -75,8 +75,16 @@ body {
 /*Reset Btn*/
 .reset-btn {
   margin-top: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+  color: white;
+  height: 30px;
+  width: 75px;
+  border-radius: 7px;
 }
 
 .reset-btn:hover {
   cursor: pointer;
+  background-color: grey;
 }
