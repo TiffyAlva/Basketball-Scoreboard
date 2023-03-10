@@ -3,6 +3,7 @@ body {
     margin: 0;
     text-align: center;
     background: grey;
+    
 }
 
 .container {
@@ -13,10 +14,12 @@ body {
     justify-content: space-around;
     padding: 2em 0;
     margin: 20% auto;
+    
 }
 
 .text-home {
-  color: #eeeeee;
+  /* color: #eeeeee; */
+  color: rgb(47, 182, 47);
   font-family: Verdana;
   font-size: 40px;
   font-weight: 700;
@@ -28,7 +31,8 @@ body {
 }
 
 .text-guest {
-  color: #eeeeee;
+  /* color: #eeeeee; */
+  color: yellow;
   font-family: Verdana;
   font-size: 40px;
   font-weight: 700;
@@ -79,9 +83,11 @@ body {
   margin-left: auto;
   background-color: black;
   color: white;
-  height: 30px;
+  height: 50px;
   width: 75px;
   border-radius: 7px;
+  font-size: 18px;
+  
 }
 
 .reset-btn:hover {

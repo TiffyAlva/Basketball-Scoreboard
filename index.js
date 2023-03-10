@@ -1,10 +1,14 @@
+//Reset
+// let newGame = document.getElementById("reset")
+
+
 //Home
 let homeScoreBtnOne = document.getElementById("home-score-btn-1")
 let homeScoreBtnTwo = document.getElementById("home-score-btn-2")
 let homeScoreBtnThree = document.getElementById("home-score-btn-3")
 
 
-let homeStoreEl =document.getElementById("home-score")
+let homeStoreEl = document.getElementById("home-score")
 let homeScore = 0
 
 //Guest
@@ -49,3 +53,10 @@ function increaseGuestScoreThree() {
     guestScore += 3
     guestStoreEl.textContent = guestScore
 }
+
+
+//Reset
+// function newGame() {
+     
+    
+// }
