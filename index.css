@@ -72,4 +72,11 @@ body {
   cursor: pointer; 
 }
 
+/*Reset Btn*/
+.reset-btn {
+  margin-top: 200px;
+}
 
+.reset-btn:hover {
+  cursor: pointer;
+}
