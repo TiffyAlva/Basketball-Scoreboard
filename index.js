@@ -56,7 +56,7 @@ function increaseGuestScoreThree() {
 
 
 //Reset
-// function newGame() {
-     
+function newGame() {
+    document.getElementById("reset").reset(); 
     
-// }
+}
