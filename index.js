@@ -1,7 +1,3 @@
-//Reset
-// let newGame = document.getElementById("reset")
-
-
 //Home
 let homeScoreBtnOne = document.getElementById("home-score-btn-1")
 let homeScoreBtnTwo = document.getElementById("home-score-btn-2")
