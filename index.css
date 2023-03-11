@@ -47,7 +47,7 @@ body {
 
 .score {
   height: 120px;
-  width: 155px;
+  width: 170px;
   left: 100px;
   top: 125px;
   font-family: 'Cursed Timer ULiL', sans-serif;
@@ -55,7 +55,7 @@ body {
   font-weight: 400;
   line-height: 127px;
   letter-spacing: 0em;
-  text-align: center;
+  text-align: right;
   background: black;
   color: red;
   border-radius: 5px;
