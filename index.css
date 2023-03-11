@@ -1,7 +1,9 @@
 body { 
     margin: 0;
     text-align: center;
-    background: grey;
+    /* background: grey; */
+    background-image: url("https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/11/2020_05.23_Unsplash_Ii7adwWwNh4_qi-xna_header.jpg?fit=1200%2C675&ssl=1");
+    background-size: cover;
     
 }
 
@@ -9,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     max-width: 500px;
-    background-color: darkred;
+    background-color: darkblue;
     padding: 2em 0;
     margin-left: auto;
     margin-right: auto;
@@ -21,7 +23,7 @@ body {
 
 .text-home {
   /* color: #eeeeee; */
-  color: rgb(47, 182, 47);
+  color: white;
   font-family: Verdana;
   font-size: 40px;
   font-weight: 700;
@@ -34,14 +36,15 @@ body {
 
 .text-guest {
   /* color: #eeeeee; */
-  color: yellow;
+  color: white;
   font-family: Verdana;
   font-size: 40px;
   font-weight: 700;
   line-height: 5px;
   letter-spacing: 0em;
   text-align: center;
-  margin-bottom: 10px
+  margin-bottom: 10px;
+  
 }
 
 
@@ -50,7 +53,7 @@ body {
   width: 155px;
   left: 100px;
   top: 125px;
-  font-family: Cursed Timer ULiL;
+  font-family: 'Cursed Timer ULiL', sans-serif;
   font-size: 90px;
   font-weight: 400;
   line-height: 127px;
@@ -61,6 +64,7 @@ body {
   border-radius: 5px;
   margin-bottom: 10px;
   margin-top: 25px;
+  border: 5px solid white;
 }
 
 .point-btn {
@@ -70,7 +74,8 @@ body {
   top: 271px;
   border-radius: 5px;
   color: #eeeeee;
-  background-color: black
+  background-color: black;
+  border: 3px solid white;
 }
 
 .point-btn:hover {
@@ -89,6 +94,7 @@ body {
   width: 75px;
   border-radius: 7px;
   font-size: 18px;
+  border: 3px solid white;
   
 }
 
@@ -96,3 +102,4 @@ body {
   cursor: pointer;
   background-color: grey;
 }
+
