@@ -56,7 +56,10 @@ function increaseGuestScoreThree() {
 
 
 //Reset
-function newGame() {
-    document.getElementById("reset").reset(); 
+function resetGame() {
+     homeScore = 0
+     guestScore = 0
+     homeStoreEl.innerHTML = homeScore
+     guestStoreEl.innerHTML = guestScore
     
 }
