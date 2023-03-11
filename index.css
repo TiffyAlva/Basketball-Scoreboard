@@ -14,6 +14,8 @@ body {
     justify-content: space-around;
     padding: 2em 0;
     margin: 20% auto;
+    border: 5px solid white;
+    border-radius: 20px;
     
 }
 
