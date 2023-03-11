@@ -1,5 +1,11 @@
 # Basketball Scoreboard
-## About: 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c43b7a6-9f6f-49e8-9b50-4c069295d22e/deploy-status)](https://app.netlify.com/sites/classy-alpaca-0a8c6a/deploys)
+
+<strong>Netlify Link: <a href="https://classy-alpaca-0a8c6a.netlify.app/">Click</a></strong>
+
+
+
+## About:
 - This application is designed to show the current scores of a basketball game.
 
 ## Table of contents:
