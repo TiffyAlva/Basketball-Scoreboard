@@ -1,9 +1,21 @@
-body { 
+/* body { 
     margin: 0;
     text-align: center;
     background-image: url("https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/11/2020_05.23_Unsplash_Ii7adwWwNh4_qi-xna_header.jpg?fit=1200%2C675&ssl=1");
     background-size: cover;
     
+} */
+
+body { 
+  margin: 0;
+  text-align: center;
+  background-image: url("https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/11/2020_05.23_Unsplash_Ii7adwWwNh4_qi-xna_header.jpg?fit=1200%2C675&ssl=1");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .container {
@@ -100,5 +112,12 @@ body {
 .reset-btn:hover {
   cursor: pointer;
   background-color: grey;
+}
+
+@media (max-width: 768px) {
+  body {
+      background-attachment: scroll;
+      background-position: top center;
+  }
 }
 
