@@ -1,7 +1,7 @@
 # Basketball Scoreboard
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c43b7a6-9f6f-49e8-9b50-4c069295d22e/deploy-status)](https://app.netlify.com/sites/classy-alpaca-0a8c6a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1420629-04f6-450b-a38d-d57dabae3042/deploy-status)](https://app.netlify.com/sites/basketball-scoreboard-0360/deploys)
 
-<strong>Netlify Link: <a href="https://classy-alpaca-0a8c6a.netlify.app/">Click</a></strong>
+<strong>Netlify Link: <a href="https://basketball-scoreboard-0360.netlify.app/">Click</a></strong>
 
 
 
