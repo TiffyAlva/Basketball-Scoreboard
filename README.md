@@ -41,7 +41,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Contact Information:
 * GitHub Username: <a href="https://github.com/TiffyAlva">TiffyAlva</a>
-* Email: <a href="malito:TiffanyAlvarez54@gmail.com">TiffanyAlvarez54@gmail.com
+* Email: <a href="malito:TiffanyAlvarezDeveloper@gmail.com">TiffanyAlvarezDeveloper@gmail.com
 
 
 ## Credit:
