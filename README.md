@@ -12,7 +12,6 @@
 * [Demo](#demo)
 * [Visuals](#visuals)
 * [Tools Used](#tools-used)
-* [Installation Setup](#installation) 
 * [Contact Information](#contact-information)
 * [Credit](#credit)
 
