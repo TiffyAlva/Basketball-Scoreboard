@@ -24,17 +24,7 @@
 - HTML
 - CSS
 - JavaScript
-- Npm
-- Vite
 
-## Installation:
-- Quick start:
-
-```
-$ npm install
-$ npm start
-````
-Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Demo:
 - <a href="https://drive.google.com/file/d/1ygm7QaiFV7DniFv-MB7cKPQOQ72uLLYS/view?usp=sharing"> Demostration Video</a>
