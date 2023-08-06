@@ -11,7 +11,7 @@
 * [About](#about)
 * [Demo](#demo)
 * [Visuals](#visuals)
-* [Tools Used](#toolsused)
+* [Tools Used](#tools)
 * [Contact Information](#contact-information)
 * [Credit](#credit)
 
